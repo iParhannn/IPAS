@@ -1,7 +1,7 @@
 .body {
     background-image: url('https://iParhannn.github.io/IPAS/assets/background.gif');
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat, repeat;
     background-attachment: fixed;
 }
 .Judul {
