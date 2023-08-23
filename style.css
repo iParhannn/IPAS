@@ -6,4 +6,9 @@
 .Judul {
     text-align: center;
     font-weight: bold;
+    font-size: large;
+}
+.tombol  {
+    align-items: center;
+    display: inline-flex;
 }
