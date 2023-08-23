@@ -1,11 +1,8 @@
 .body {
     .background-image {
-        background-image: url('./assets/background.gif ');
-        background-size: contain;
+        background-image: url('https://i.pinimg.com/originals/49/c9/36/49c9368c709b3b5c00c7898ffc2a7714.gif');
+        background-size: cover;
         background-repeat: no-repeat;
-        width: 200px;
-        height:100vh;
-
     }
 }
 .Judul {
