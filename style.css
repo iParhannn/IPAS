@@ -1,3 +1,9 @@
+.body {
+    background-image: url('https://iParhannn.github.io/IPAS/assets/background.gif');
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
 .Judul {
     text-align: center;
     font-weight: bold;
