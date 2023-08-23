@@ -1,9 +1,7 @@
 .body {
-    .background-image {
-        background-image: url('https://i.pinimg.com/originals/49/c9/36/49c9368c709b3b5c00c7898ffc2a7714.gif');
-        background-size: cover;
-        background-repeat: no-repeat;
-    }
+    background-image: url('iParhann.github.io/IPAS/assets/background.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .Judul {
     text-align: center;
