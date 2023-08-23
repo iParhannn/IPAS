@@ -1,8 +1,17 @@
 .body {
-    background-image: url('https://iParhannn.github.io/IPAS/assets/background.gif');
-    background-size: cover;
-    background-repeat: no-repeat, repeat;
-    background-attachment: fixed;
+    .gif-background {
+        width: 400px; /* Lebar elemen */
+        height: 300px; /* Tinggi elemen */
+        background-image: url('animated.gif'); /* URL ke gambar bergerak (GIF) */
+        background-size: cover; /* Untuk mengisi seluruh latar belakang elemen */
+    }
+
+    /* Beberapa gaya CSS tambahan */
+    .gif-background h1 {
+        color: white;
+        text-align: center;
+        padding-top: 100px;
+    }
 }
 .Judul {
     text-align: center;
