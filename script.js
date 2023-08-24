@@ -1,3 +1,6 @@
 function mamalia() {
-    document.getElementsByClassName('mamalia').style.display = "block";
+    var x = document.GetElementsById('mal');
+    for(var i = 0; i < x.length; i+=1) {
+        x[i].style.display = 'block';
+    }
 }
