@@ -18,5 +18,6 @@
     bottom: 0;
 }
 .Dtombol  {
+    margin: 0 auto;
     display: inline-flex;
 }
