@@ -1,5 +1,6 @@
 .bod {
-    background: url('https://iParhannn.github.io/IPAS/assets/background.gif') no-repeat fixed;
+    background-image: url('https://iParhannn.github.io/IPAS/assets/background.gif');
+    background-repeat: no-repeat;
     height: 100%;
     width: 100%;
 }
