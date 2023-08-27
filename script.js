@@ -7,3 +7,6 @@ var pisces = document.getElementsByClassName('canvas5')[0];
 function Fmamalia() {
     mamalia.style.visibility='visible';
 }
+function Faves() {
+    aves.style.visibility='visible';
+}
