@@ -5,8 +5,37 @@ var amfibi = document.getElementsByClassName('canvas4')[0];
 var pisces = document.getElementsByClassName('canvas5')[0];
 
 function Fmamalia() {
-    mamalia.style.visibility='visible';
+    if(mamalia.style.visibility == 'visible') {
+        mamalia.style.visibility='hidden';
+    } else {
+        mamalia.style.visibility='visible';
+    }
 }
 function Faves() {
-    aves.style.visibility='visible';
+    if(aves.style.visibility == 'visible') {
+        aves.style.visibility='hidden';
+    } else [
+        aves.style.visibility='visible'
+    ]
+}
+function Freptil() {
+    if(reptil.style.visibility == 'visible') {
+        reptil.style.visibility='hidden'
+    } else {
+        reptil.style.visibility='visible'
+    }
+}
+function Famfibi() {
+    if(amfibi.style.visibility == 'visible') {
+        amfibi.style.visibility='hidden'
+    } else {
+        amfibi.style.visibility='visible'
+    }
+}
+function Fpisces() {
+    if(pisces.style.visibility == 'visible') {
+        pisces.style.visibility='hidden'
+    } else {
+        pisces.style.visibility='visible'
+    }
 }
