@@ -1,4 +1,4 @@
-.bod {
+body {
     background-image: url('https://iParhannn.github.io/IPAS/assets/background.gif');
     background-repeat: no-repeat;
     background-size: cover;
@@ -13,7 +13,8 @@
 .Button {
     padding: 0 50px 0 50px;
 }
-.canvas {
+.canvas1 {
+    z-index: 2;
     background-color: red;
     height: 200px;
     width: 100px;
@@ -21,6 +22,7 @@
     bottom: 0;
 }
 .Dtombol  {
+    z-index: 1;
     margin: 0 auto;
     display: inline-flex;
 }
