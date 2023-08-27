@@ -22,9 +22,9 @@ body {
 .canvas1 {
     z-index: 2;
     background-color: red;
-    height: 200px;
-    width: 100px;
-    position: fixed;
+    height: 50%;
+    width: 80%;
+    position: relative;
     bottom: 0;
 }
 .Dtombol  {
