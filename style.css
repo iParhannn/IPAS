@@ -49,6 +49,12 @@ body {
 .Mcontainer {
     display: inline-flex;
 }
+.Mimg {
+    margin-left: 50px;
+}
+.Mexplain {
+    margin-left: 50px;
+}
 .Dtombol  {
     z-index: 1;
     margin: 0 auto;
