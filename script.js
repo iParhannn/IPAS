@@ -51,7 +51,12 @@ function Fpisces() {
     }
 }
 function fCredit() {
-    crdt.style.visibility='visible';
+    if(crdt.style.visibility == 'visible') {
+        crdt.style.visibility='hidden'
+    } else {
+        crdt.style.visibility='visible'
+    }
+
     mamalia.style.visibility='hidden';
     aves.style.visibility='hidden';
     reptil.style.visibility='hidden';
