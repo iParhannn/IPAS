@@ -50,7 +50,7 @@ function Fpisces() {
         pisces.style.visibility='visible'
     }
 }
-function credit() {
+function Credit() {
     crdt.style.visibility='visible';
     mamalia.style.visibility='hidden';
     aves.style.visibility='hidden';
