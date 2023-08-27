@@ -1,5 +1,5 @@
 body {
-    height: 800px;
+    height: 500px;
     width: 100%;
     background: linear-gradient(45deg,#d2001a,#7462ff,#f48e21,#23d5ab);
     background-size: 300% 300%;
@@ -23,6 +23,7 @@ body {
     margin-left: 80px;
 }
 .container {
+    padding-top: 20px;
     height: 500px;
     display: grid;
 }
