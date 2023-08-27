@@ -5,5 +5,5 @@ var amfibi = document.getElementsByClassName('canvas4')[0];
 var pisces = document.getElementsByClassName('canvas5')[0];
 
 function Fmamalia() {
-    mamalia.setAttribute("style", "visibility:visible;")
+    mamalia.style.visibility='visible';
 }
