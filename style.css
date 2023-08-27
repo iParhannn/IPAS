@@ -20,7 +20,7 @@ body {
     margin: 0 50px 0 50px;
 }
 .container {
-    height: 700px;
+    height: 500px;
     display: grid;
 }
 .canvas1, .canvas2, .canvas3, .canvas4, .canvas5 {
