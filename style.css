@@ -19,6 +19,9 @@ body {
     padding: 20px 20px 20px 20px;
     margin: 0 50px 0 50px;
 }
+#Bmal {
+    margin-left: 80px;
+}
 .container {
     height: 500px;
     display: grid;
