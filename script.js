@@ -4,6 +4,6 @@ var reptil = document.getElementsByClassName('canvas3')[0];
 var amfibi = document.getElementsByClassName('canvas4')[0];
 var pisces = document.getElementsByClassName('canvas5')[0];
 
-function mamalia() {
+function Fmamalia() {
     mamalia.style.visibility='visible';
 }
