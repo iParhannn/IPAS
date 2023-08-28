@@ -64,6 +64,9 @@ body {
     .Judul{
         margin-left: 50px;
     }
+    .container {
+        width: 100%;
+    }
     .Button {
         margin: 0 10px 0 10px;
     }
