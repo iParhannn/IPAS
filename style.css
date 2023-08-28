@@ -1,7 +1,7 @@
 body {
     height: 500px;
     width: 100%;
-    background-color: lightcoral;
+    background: url('https://iParhannn/IPAS/assets/background.png');
 }
 .Judul {
     text-align: center;
@@ -24,30 +24,27 @@ body {
     display: grid;
 }
 .canvas1, .canvas2, .canvas3, .canvas4, .canvas5, .canvas6 {
-    background-image: url('https://iParhannn.github.io/IPAS/assets/Canvas.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
     grid-column: 1;
     grid-row: 1;
     border-radius: 10px 10px 10px 10px;
 }
 .canvas1 {
-    background-color: lightblue;
+    background: url('https://iParhannn/IPAS/assets/mamalia.jpg') no-repeat cover;
 }
 .canvas2 {
-    background-color: lightgreen;
+    background: url('https://iParhannn/IPAS/assets/aves.jpg') no-repeat cover;
 }
 .canvas3 {
-    background-color: lightsteelblue;
+    background: url('https://iParhannn/IPAS/assets/reptil.jpg') no-repeat cover;
 }
 .canvas4 {
-    background-color: lightseagreen;
+    background: url('https://iParhannn/IPAS/assets/amfibi.jpg') no-repeat cover;
 }
 .canvas5 {
-    background-color: lightskyblue;
+    background: url('https://iParhannn/IPAS/assets/pisces.jpg') no-repeat cover;
 }
 .canvas6 {
-    background-color: lightpink;
+    background: url('https://iParhannn.github.io/IPAS/assets/credit.jpg') no-repeat cover;
 }
 .Mcontainer, .Acontainer, .Rcontainer, .Amfcontainer, .Pcontainer {
     display: inline-flex;
