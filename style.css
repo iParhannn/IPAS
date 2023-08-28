@@ -1,9 +1,7 @@
 body {
     height: 500px;
     width: 100%;
-    background-image: url('https://iParhannn.github.io/IPAS/assets/background.png');
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: lightskyblue;
 }
 .Judul {
     text-align: center;
@@ -31,6 +29,7 @@ body {
     border-radius: 10px 10px 10px 10px;
 }
 .canvas1 {
+    text-shadow: 2px 2px 5px white;
     background-image: url('https://iParhannn.github.io/IPAS/assets/mamalia.jpg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -41,11 +40,14 @@ body {
     background-size: cover;
 }
 .canvas3 {
+    color: lightblue;
     background-image: url('https://iParhannn.github.io/IPAS/assets/reptil.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 .canvas4 {
+    color: white;
+    text-shadow: 2px 2px 5px black;
     background-image: url('https://iParhannn.github.io/IPAS/assets/amfibi.jpg');
     background-repeat: no-repeat;
     background-size: cover;
