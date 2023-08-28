@@ -1,7 +1,9 @@
 body {
-    height: 500px;
-    width: 100%;
-    background-color: lightskyblue;
+    height: 100vw;
+    width: calc(100vw - 100px);
+    background-image: url('https://iParhannn.github.io/IPAS/assets/background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .Judul {
     text-align: center;
