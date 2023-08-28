@@ -62,7 +62,7 @@ body {
         width: 50%;
     }
     .Judul{
-        margin-left: 180px;
+        margin-left: 220px;
     }
     .container {
         align-items: center;
@@ -72,6 +72,6 @@ body {
         margin: 0 10px 0 10px;
     }
     #Bmal {
-        margin-left: 0;
+        margin-left: 15px;
     }
 }
