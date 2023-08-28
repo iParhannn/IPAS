@@ -1,14 +1,7 @@
 body {
     height: 500px;
     width: 100%;
-    background: linear-gradient(45deg,#d2001a,#7462ff,#f48e21,#23d5ab);
-    background-size: 300% 300%;
-    animation: color 12s ease-in-out infinite;
-}
-@keyframes color {
-    0% {background-position: 0 50%;}
-    50% {background-position: 100% 50%;}
-    100% {background-position: 0 50%;}
+    background: linear-gradient(45deg,lightcoral,#23d5ab);
 }
 .Judul {
     text-align: center;
@@ -24,6 +17,7 @@ body {
     margin-left: 245px;
 }
 .container {
+    align-items: center;
     padding-top: 20px;
     height: 500px;
     display: grid;
@@ -60,4 +54,9 @@ body {
     z-index: 1;
     margin: 0 auto;
     display: inline-flex;
+}
+@media (max-width: 768px) {
+    body {
+        width: 70%;
+    }   
 }
