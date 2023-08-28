@@ -1,2 +1,2 @@
 # IPAS
-Klasifikasi hewan IPAS
+Proyek klasifikasi hewan IPAS
