@@ -58,14 +58,15 @@ body {
 }
 @media (max-width: 768px) {
     body {
-        height: 300px;
+        height: 100px;
         width: 50%;
     }
     .Judul{
         margin-left: 50px;
     }
     .container {
-        width: 100%;
+        align-items: center;
+        width: 400px;
     }
     .Button {
         margin: 0 10px 0 10px;

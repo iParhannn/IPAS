@@ -72,7 +72,6 @@ function fCredit() {
     } else {
         crdt.style.visibility='visible'
     }
-    crdt.style.visibility='hidden';
     mamalia.style.visibility='hidden';
     aves.style.visibility='hidden';
     reptil.style.visibility='hidden';
