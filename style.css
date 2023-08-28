@@ -20,7 +20,7 @@ body {
 .container {
     align-items: center;
     padding-top: 20px;
-    height: 500px;
+    height: 200px;
     display: grid;
 }
 .canvas1, .canvas2, .canvas3, .canvas4, .canvas5 {
