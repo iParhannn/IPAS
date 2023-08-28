@@ -11,6 +11,7 @@ function Fmamalia() {
     } else {
         mamalia.style.visibility='visible';
     }
+    crdt.style.visibility='hidden';
     aves.style.visibility='hidden';
     reptil.style.visibility='hidden';
     amfibi.style.visibility='hidden';
@@ -22,6 +23,7 @@ function Faves() {
     } else [
         aves.style.visibility='visible'
     ]
+    crdt.style.visibility='hidden';
     mamalia.style.visibility='hidden';
     reptil.style.visibility='hidden';
     amfibi.style.visibility='hidden';
@@ -33,6 +35,7 @@ function Freptil() {
     } else {
         reptil.style.visibility='visible'
     }
+    crdt.style.visibility='hidden';
     mamalia.style.visibility='hidden';
     aves.style.visibility='hidden';
     amfibi.style.visibility='hidden';
@@ -44,6 +47,7 @@ function Famfibi() {
     } else {
         amfibi.style.visibility='visible'
     }
+    crdt.style.visibility='hidden';
     mamalia.style.visibility='hidden';
     aves.style.visibility='hidden';
     reptil.style.visibility='hidden';
@@ -59,6 +63,8 @@ function Fpisces() {
     aves.style.visibility='hidden';
     reptil.style.visibility='hidden';
     amfibi.style.visibility='hidden';
+    crdt.style.visibility='hidden';
+    
 }
 function fCredit() {
     if(crdt.style.visibility == 'visible') {
@@ -66,7 +72,7 @@ function fCredit() {
     } else {
         crdt.style.visibility='visible'
     }
-
+    crdt.style.visibility='hidden';
     mamalia.style.visibility='hidden';
     aves.style.visibility='hidden';
     reptil.style.visibility='hidden';
