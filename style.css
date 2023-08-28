@@ -24,6 +24,9 @@ body {
     display: grid;
 }
 .canvas1, .canvas2, .canvas3, .canvas4, .canvas5 {
+    background-image: url('https://iParhannn.github.io/IPAS/assets/Canvas.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
     grid-column: 1;
     grid-row: 1;
     border-radius: 10px 10px 10px 10px;
@@ -67,7 +70,7 @@ body {
     }
     .container {
         align-items: center;
-        width: 620px;
+        width: 615px;
     }
     .Button {
         margin: 0 10px 0 10px;
