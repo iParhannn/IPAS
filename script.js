@@ -21,7 +21,7 @@ function Faves() {
     if(aves.style.visibility == 'visible') {
         aves.style.visibility='hidden';
     } else [
-        aves.style.visibility='visible',
+        aves.style.visibility='visible'
     ]
     crdt.style.visibility='hidden';
     mamalia.style.visibility='hidden';
