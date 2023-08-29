@@ -107,7 +107,7 @@ li {
         margin-left: 120px;
     }
     .container {
-        width: 360px;
+        width: 355px;
     }
     .Button {
         font-size: small;
@@ -115,6 +115,6 @@ li {
         padding: 8px 8px 8px 8px;
     }
     #Bmal {
-        margin-left: 0px;
+        margin-left: 5px;
     }
 }
