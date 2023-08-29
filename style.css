@@ -102,6 +102,9 @@ body {
     .Judul {
         margin-left: 150px;
     }
+    .container {
+        width: 315px;
+    }
     .Button {
         font-size: small;
         margin: 0 2em 0 2em;
