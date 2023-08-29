@@ -65,6 +65,9 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+li {
+    margin-bottom: 5px;
+}
 .Mcontainer, .Acontainer, .Rcontainer, .Amfcontainer, .Pcontainer {
     display: inline-flex;
 }
