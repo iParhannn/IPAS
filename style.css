@@ -134,16 +134,21 @@ li {
         width: 355px;
     }
     #apel {
-        margin-left: 50px;
+        margin-left: 80px;
     }
     #pisang {
-        margin-right: 50px;
+        margin-right: 80px;
     }
     #anjing {
-        margin-right: 240px;
+        margin-right: 310px;
     }
     #pausc0 {
-        margin-left: 30px;
+        margin-left: 0;
+    }
+    .imgc0 {
+        height: 80px;
+        width: 80px;
+        margin-right: 2px;
     }
     .Button {
         font-size: small;
