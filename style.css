@@ -16,6 +16,15 @@ body {
 #Bmal {
     margin-left: 225px;
 }
+#anjing {
+    margin-right: 150px;
+}
+#apel {
+    margin-left: 100px;
+}
+#pisang {
+    margin-right: 100px;
+}
 .imgc0 {
     width: 50px;
     margin-right: 8px;
@@ -87,6 +96,15 @@ li {
     .container {
         align-items: center;
         width: 615px;
+    }
+    #anjing {
+        margin-right: 100px;
+    }
+    #apel {
+        margin-left: 50px;
+    }
+    #pisang {
+        margin-right: 50px;
     }
     .Button {
         margin: 0 8px 0 8px;

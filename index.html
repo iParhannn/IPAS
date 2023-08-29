@@ -10,8 +10,8 @@
 </head>
 <body>
     <div class="main">
-        <div class="Judul">
-            <img src="https://iParhannn.github.io/IPAS/assets/pisang.png" style="width: 50px; margin-right: 50px;"><h3 style="font-weight: bold; font-size: x-large;">KLASIFIKASI HEWAN</h3><img src="https://iParhannn.github.io/IPAS/assets/apel.png" style="width: 50px; margin-left: 50px;">
+        <div class="Judul" style="display: inline-flex;">
+            <img src="https://iParhannn.github.io/IPAS/assets/pisang.png" style="width: 50px;" id="pisang"><h3 style="font-weight: bold; font-size: x-large;">KLASIFIKASI HEWAN</h3><img src="https://iParhannn.github.io/IPAS/assets/apel.png" style="width: 50px; transform: rotateX('angle');" id="apel">
         </div>
         <div class="Dtombol">
             <button type="button" class="Button" id="Bmal" onclick="Fmamalia()">Mamalia</button>
@@ -24,14 +24,18 @@
         <div class="container" style="visibility: visible;">
             <div class="canvas0">
                 <div class="container">
-                    <img src="https://iParhannn.github.io/IPAS/assets/kucing.png" style="width: 50px; margin-right: 100px;">
-                    <img src="https://iParhannn.github.io/IPAS/assets/anjing.png" style="width: 50px;"><br>
+                    <div style="display: inline-flex;">
+                        <img src="https://iParhannn.github.io/IPAS/assets/kucing.png" style="width: 50px;" id="anjing">
+                        <img src="https://iParhannn.github.io/IPAS/assets/anjing.png" style="width: 50px;">
+                    </div>
                     <p>Halaman ini membahas tentang klasifikasi antara lain <em>Mamalia</em>, <em>Aves</em>, <em>Reptil</em>, <em>Amfibi</em>, dan <em>Pisces</em>.</p>
-                    <img src="https://iParhannn.github.io/IPAS/assets/paus.jpg" class="imgc0">
-                    <img src="https://iParhannn.github.io/IPAS/assets/pinguin.jpg" class="imgc0">
-                    <img src="https://iParhannn.github.io/IPAS/assets/gecko.jpg" class="imgc0">
-                    <img src="https://iParhannn.github.io/IPAS/assets/mbappe.jpg" class="imgc0">
-                    <img src="https://iParhannn.github.io/IPAS/assets/sucipto.jpg" class="imgc0">
+                    <div style="display: inline-flex;">
+                        <img src="https://iParhannn.github.io/IPAS/assets/paus.jpg" class="imgc0">
+                        <img src="https://iParhannn.github.io/IPAS/assets/pinguin.jpg" class="imgc0">
+                        <img src="https://iParhannn.github.io/IPAS/assets/gecko.jpg" class="imgc0">
+                        <img src="https://iParhannn.github.io/IPAS/assets/mbappe.jpg" class="imgc0">
+                        <img src="https://iParhannn.github.io/IPAS/assets/sucipto.jpg" class="imgc0">
+                    </div>
                 </div>
             </div>
             <div class="canvas1" id="mal" style="visibility: hidden;">
