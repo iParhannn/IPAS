@@ -3,7 +3,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     width: 400%;
-    height: 150vh;
+    height: 200vh;
 }
 .Button {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -17,7 +17,7 @@ body {
     margin-left: 225px;
 }
 #anjing {
-    margin-right: 150px;
+    margin-right: 300px;
 }
 #apel {
     margin-left: 100px;
@@ -120,6 +120,12 @@ li {
     }
     .container {
         width: 355px;
+    }
+    #anjing {
+        margin-right: 240px;
+    }
+    #pausc0 {
+        margin-left: 50px;
     }
     .Button {
         font-size: small;
