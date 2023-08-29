@@ -74,6 +74,16 @@ li {
 .Mimg, .Mexplain, .Aimg, .Aexplain, .Rimg, .Rexplain, .Amfimg, .Amfexplain, .Pimg, .Pexplain {
     margin-left: 50px;
 }
+.hidden {
+    visibility: hidden;
+    opacity: o;
+    transition: visibility 0s 2s, opacity 2s linear;
+}
+.show {
+    visibility: visible;
+    opacity: 1;
+    transition: visibility 0s 2s, opacity 2s linear;
+}
 .Dtombol  {
     z-index: 1;
     margin: 0 auto;
