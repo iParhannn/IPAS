@@ -112,10 +112,10 @@ li {
         margin-right: 530px;
     }
     #apel {
-        margin-left: 185px;
+        margin-left: 145px;
     }
     #pisang {
-        margin-right: 185px;
+        margin-right: 145px;
     }
     .imgc0 {
         width: 100px;
@@ -128,7 +128,7 @@ li {
         padding: 10px 10px 10px 10px;
     }
     #Bmal {
-        margin-left: 45px;
+        margin-left: 60px;
     }
 }
 @media (max-width: 425px) {
@@ -139,10 +139,12 @@ li {
         width: 410px;
     }
     #apel {
-        margin-left: 80px;
+        height: 70px;
+        margin-left: 60px;
     }
     #pisang {
-        margin-right: 80px;
+        height: 70px;
+        margin-right: 60px;
     }
     #anjing {
         margin-right: 310px;
