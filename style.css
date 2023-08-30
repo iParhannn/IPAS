@@ -24,9 +24,14 @@ body {
     margin-right: 910px;
 }
 #apel {
+    width: 100px;
+    height: 100px;
     margin-left: 330px;
 }
 #pisang {
+    transform: rotateX(-1);
+    width: 100px;
+    height: 100px;
     margin-right: 330px;
 }
 .imgc0 {
